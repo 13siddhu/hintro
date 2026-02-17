@@ -47,7 +47,7 @@ Follow these steps to get Hintro running locally on your machine.
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/hintro.git
+    git clone https://github.com/13siddhu/hintro.git
     cd hintro
     ```
 
